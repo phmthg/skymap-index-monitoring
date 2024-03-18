@@ -1,2 +1,0 @@
-# skymap-index-monitoring
-Skymap
