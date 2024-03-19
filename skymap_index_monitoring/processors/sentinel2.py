@@ -1,9 +1,9 @@
 from .imagery_statistics import *
 from shapely.geometry import Polygon
 from rio_tiler.io import COGReader
-from utils.tile_helper import crop_tile
+from skymap_index_monitoring.utils.tile_helper import crop_tile
 import numpy as np
-from lib.skymap_index_monitoring.image_readers.sentinel2 import S2COGReader
+from skymap_index_monitoring.image_readers.sentinel2 import S2COGReader
 
 
 EXPRESSION = {

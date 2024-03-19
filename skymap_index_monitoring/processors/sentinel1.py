@@ -1,7 +1,7 @@
 from .imagery_statistics import SatelliteImageryStatistics
 from .imagery_statistics import *
-from lib.skymap_index_monitoring.image_readers.sentinel1 import S1L1CReader
-from lib.skymap_index_monitoring.utils.tile_helper import crop_tile
+from skymap_index_monitoring.image_readers.sentinel1 import S1L1CReader
+from skymap_index_monitoring.utils.tile_helper import crop_tile
 # from typing import Optional
 
 

@@ -4,8 +4,8 @@ from shapely.geometry.base import BaseGeometry
 from shapely.geometry import mapping
 import numpy as np
 
-from lib.skymap_index_monitoring.indices import index_statistics
-from utils import *
+from skymap_index_monitoring.indices import index_statistics
+from skymap_index_monitoring.utils import *
 
 
 class SatelliteImageryStatistics(ABC):
