@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='skymap_index_monitoring',
-    version='0.2',
+    version='0.1',
     description='A sample Python project',
     author='Sky',
     author_email='thongktqt10@email.com',
